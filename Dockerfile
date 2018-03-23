@@ -16,7 +16,7 @@ RUN dnf install -y \
 	python3 \
 	git \
 	sshpass \
-	wine-core \
+	wine-core.i686 \
 	autogen \
 	p7zip-plugins
 
